@@ -368,7 +368,7 @@ Création d'un module dans Stackblitz :
   - Similaire à Maven
   - Gestion des dépendances
   - Outils de build
-- Alternative recommandée à npm : yarn
+- Alternative à npm : yarn
 
 ----
 <!-- .slide: data-background-color="#84C665" -->
@@ -379,8 +379,8 @@ Création d'un module dans Stackblitz :
 - Attention à la configuration du proxy
 
 <pre><code data-trim data-noescape class="bash">
-npm config set proxy http://proxy-pc.na01.groupesigma.fr:8080
-npm config set https-proxy http://proxy-pc.na01.groupesigma.fr:8080
+npm config set proxy http://serveur:port
+npm config set https-proxy http://serveur:port
 </code></pre>
 - Installation de module : <pre><code data-trim data-noescape class="bash">npm install</code></pre>
 - La gestion des dépendances d'un projet est définie dans son fichier `package.json`
@@ -442,23 +442,6 @@ Exemple de fichier `package.json` :
 </code></pre>
 
 ----
-<!-- .slide: data-background-color="#2C8EBB" -->
-
-## Yarn
-
-- Alternative à npm
-- Compatible avec npm et utilise les fichiers `package.json`
-- Plus simple et plus rapide
-- Attention à la configuration du proxy
-
-<pre><code data-trim data-noescape class="bash">
-yarn config set proxy http://proxy-pc.na01.groupesigma.fr:8080
-yarn config set https-proxy http://proxy-pc.na01.groupesigma.fr:8080
-</code></pre>
-
-- Installation : <a href="https://yarnpkg.com" target="_blank">https://yarnpkg.com</a>
-
-----
 <!-- .slide: data-background-color="#F44336" -->
 
 ## Angular CLI
@@ -473,42 +456,42 @@ npm install -g @angular/cli
 </code></pre>
 
 ----
-<!-- .slide: data-background-color="#ffff" -->
+<!-- .slide: data-background-color="#ffffff" -->
 
 ## IDE
 
-<div class="colonnes">
+<div class="colonnes" style="color:black">
 	<div>
 	    Visual Studio Code
         <a href="https://code.visualstudio.com/" target="_blank"><img src="img/visual-studio-code.png"></a>
-        _Gratuit_
+        <i>Gratuit</i>
     </div>
     <div>
         Webstorm
         <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="img/webstorm.png"></a>
-        _Payant_
+        <i>Payant</i>
     </div>
     <div>
         IntelliJ IDEA Ultimate
         <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="img/intellij-idea.png"></a>
-        _Payant_
+        <i>Payant</i>
     </div>
     <div>
         Stackblitz
         <a href="https://stackblitz.com/" target="_blank"><img src="img/stackblitz.png"></a>
-        _Gratuit, en ligne_
+        <i>Gratuit, en ligne</i>
     </div>
 </div>
 
 ----
 
-<!-- .slide: data-background-color="#ffff" -->
+<!-- .slide: data-background-color="#ffffff" -->
 
 ## Débogage dans le navigateur
 
 - La console navigateur
 - Via l'IDE
-- Extension Chrome : <a href="https://augury.angular.io/" target="_blank">Angury</a>
+- Extension Chrome : <a href="https://augury.angular.io/" target="_blank" >Angury</a>
 
 ----
 
@@ -522,7 +505,7 @@ npm install -g @angular/cli
 
 ----
 
-<!-- .slide: data-background-color="#ffff" -->
+<!-- .slide: data-background-color="#ffffff" -->
 
 ## Architecture d'une application Angular
 
@@ -532,7 +515,7 @@ npm install -g @angular/cli
 
 ----
 
-<!-- .slide: data-background-color="#ffff" -->
+<!-- .slide: data-background-color="#ffffff" -->
 
 ## Application
 
@@ -544,7 +527,7 @@ ng new mon-application
 
 ----
 
-<!-- .slide: data-background-color="#ffff" -->
+<!-- .slide: data-background-color="#ffffff" -->
 
 ## Structure d'une application Angular
 
@@ -717,7 +700,7 @@ ng generate component mon-module/composant2
     <div>
         <div><img src="img/warning.png" /></div>
     </div>
-    <div>**Pour pouvoir être utilisé, le composant doit être inscrit dans les déclarations du module**</div>
+    <div><b>Pour pouvoir être utilisé, le composant doit être inscrit dans les déclarations du module</b></div>
 </div>
 
 ----
@@ -1114,7 +1097,7 @@ ng generate directive mon-module/directive2
     <div>
         <div><img src="img/warning.png" /></div>
     </div>
-    <div>**Pour pouvoir être utilisée, la directive doit être inscrite dans les déclarations du module**</div>
+    <div><b>Pour pouvoir être utilisée, la directive doit être inscrite dans les déclarations du module</b></div>
 </div>
 
 ----
@@ -1226,7 +1209,7 @@ ng generate pipe mon-module/pipe2
     <div>
         <div><img src="img/warning.png" /></div>
     </div>
-    <div>**Pour pouvoir être utilisé, le pipe doit être inscrit dans les déclarations du module**</div>
+    <div><b>Pour pouvoir être utilisé, le pipe doit être inscrit dans les déclarations du module</b></div>
 </div>
 
 ----
@@ -1631,7 +1614,7 @@ ng generate service mon-module/service2
     <div>
         <div><img src="img/warning.png" /></div>
     </div>
-    <div>**Pour pouvoir être utilisé, le service doit être inscrit dans les déclarations du module**</div>
+    <div><b>Pour pouvoir être utilisé, le service doit être inscrit dans les déclarations du module</b></div>
 </div>
 
 ---
