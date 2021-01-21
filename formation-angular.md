@@ -253,8 +253,14 @@
 ## Typescript
 ### Typage
 
-<iframe src="https://stackblitz.com/edit/sigma-typescript-typage?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-typescript-typage</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-typage?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: ts-typage"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/ts-typage</center>
 
 ----
 <!-- .slide: data-background-color="#007ACC" -->
@@ -262,17 +268,28 @@
 ## Typescript
 ### Classes : modifieurs
 
-<iframe src="https://stackblitz.com/edit/sigma-typescript-classe-modifier?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-typescript-classe-modifier</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-modifieurs?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: ts-modifieurs"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/ts-modifieurs</center>
 
 ----
 <!-- .slide: data-background-color="#007ACC" -->
 
 ## Typescript
 ### Interfaces
-
-<iframe src="https://stackblitz.com/edit/sigma-typescript-interface?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-typescript-interface</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-interface?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: ts-interface"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/ts-interface</center>
 
 ----
 <!-- .slide: data-background-color="#007ACC" -->
@@ -280,8 +297,14 @@
 ## Typescript
 ### Enum
 
-<iframe src="https://stackblitz.com/edit/sigma-typescript-enum?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-typescript-enum</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-enum?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: ts-enum"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/ts-enum</center>
 
 ----
 <!-- .slide: data-background-color="#007ACC" -->
@@ -289,8 +312,14 @@
 ## Typescript
 ### Génériques
 
-<iframe src="https://stackblitz.com/edit/sigma-typescript-generics?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-typescript-generics</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-generics?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: ts-generics"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/ts-generics</center>
 
 ----
 <!-- .slide: data-background-color="#007ACC" -->
