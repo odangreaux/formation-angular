@@ -123,7 +123,7 @@
 ## ES6
 ### var vs let
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-var-vs-let?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-var-vs-let?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-var-vs-let"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -138,7 +138,7 @@
 ## ES6
 ### const
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-const?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-const?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-const"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -153,7 +153,7 @@
 ## ES6
 ### Arrow functions
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-arrow-functions?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-arrow-functions?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-arrow-functions"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -168,7 +168,7 @@
 ## ES6
 ### Modules
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-modules?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-modules?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-modules"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -183,7 +183,7 @@
 ## ES6
 ### Classes
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-classes?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-classes?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-classes"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -198,7 +198,7 @@
 ## ES6
 ### Classes avec modules
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-classes-modules?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-classes-modules?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-classes-modules"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -213,7 +213,7 @@
 ## ES6
 ### Avant les promises
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-sans-promise?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-sans-promise?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-sans-promise"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -228,7 +228,7 @@
 ## ES6
 ### Avec les promises
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-avec-promise?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-avec-promise?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: es6-avec-promise"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -253,7 +253,7 @@
 ## Typescript
 ### Typage
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-typage?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-typage?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: ts-typage"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -268,7 +268,7 @@
 ## Typescript
 ### Classes : modifieurs
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-modifieurs?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-modifieurs?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: ts-modifieurs"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -282,7 +282,7 @@
 
 ## Typescript
 ### Interfaces
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-interface?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-interface?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: ts-interface"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -297,7 +297,7 @@
 ## Typescript
 ### Enum
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-enum?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-enum?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: ts-enum"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -312,7 +312,7 @@
 ## Typescript
 ### Génériques
 
-<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-generics?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/ts-generics?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="odangreaux/formation-angular: ts-generics"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
