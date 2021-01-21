@@ -15,7 +15,7 @@ interface PersonneInterface {
   presenter(unePersonne)
   
   interface PersonneQuiParleInterface extends PersonneInterface {
-    parler(message: string)
+    parler(message: string): any
   }
   
   class Personne implements PersonneQuiParleInterface {
