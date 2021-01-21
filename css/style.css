@@ -1,0 +1,65 @@
+@media print {
+    .liveCode {
+        display: none;
+    }
+
+    .giphy-embed {
+        display: none;
+    }
+}
+
+@media screen {
+    .print {
+        display: none;
+    }
+}
+
+#logo {
+    padding: 10px;
+    background-color: #fff;
+    position: absolute;
+    right: 0px;
+    border-radius: 0px 0px 0px 20px;
+    z-index: 1000;
+}
+
+section p {
+    text-align: justify;
+}
+
+.colonnes {
+    display:flex;
+    justify-content: space-around;
+}
+
+.colonnes > div {
+    display:flex;
+    flex-direction: column;
+    align-items: center
+}
+
+section img {
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+}
+
+.reveal strong {
+    /*color: #42affa;*/
+}
+
+.liveCode {
+    max-width: none;
+    max-height: none;
+    width: 95%;
+    height: 500px;
+}
+
+.slides p {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.reveal pre code {
+    max-height: 700px;
+}

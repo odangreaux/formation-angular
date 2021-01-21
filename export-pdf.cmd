@@ -1,0 +1,1 @@
+decktape file:///D:/serverless/slides/_static/index.html#/  slides.pdf --chrome-arg=--proxy-server="proxy-pc.na01.groupesigma.fr:8080"

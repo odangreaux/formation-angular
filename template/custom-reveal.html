@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>{{{title}}}</title>
+    {{#absoluteUrl}}
+    <meta property="og:title" content="{{{title}}}">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{{{absoluteUrl}}}/featured-slide.jpg">
+    <meta property="og:url" content="{{{absoluteUrl}}}">
+    {{/absoluteUrl}}
+    <link rel="stylesheet" href="{{{base}}}/css/reveal.css">
+    <link rel="stylesheet" href="{{{themeUrl}}}" id="theme">
+    <link rel="stylesheet" href="{{{base}}}{{{highlightThemeUrl}}}">
+    <link rel="stylesheet" href="{{{base}}}/css/print/{{#print}}pdf{{/print}}{{^print}}paper{{/print}}.css" type="text/css" media="print">
+    {{#cssPaths}}
+    <link rel="stylesheet" href="{{{base}}}/{{{.}}}">
+    {{/cssPaths}}
+
+    {{#watch}}
+    <script>
+        document.write(
+            '<script src="http://' +
+            (location.host || 'localhost').split(':')[0] +
+            ':35729/livereload.js?snipver=1"></' + 'script>');
+    </script>
+    {{/watch}}
+    <style>
+
+    </style>
+</head>
+<body>
+<div id="logo">
+    <a href="https://www.sigma.fr/">
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAPAAA/+0ALFBob3Rvc2hvcCAzLjAAOEJJTQQlAAAAAAAQAAAAAAAAAAAAAAAAAAAAAP/uAA5BZG9iZQBkwAAAAAH/2wCEAAYEBAQFBAYFBQYJBgUGCQsIBgYICwwKCgsKCgwQDAwMDAwMEAwODxAPDgwTExQUExMcGxsbHB8fHx8fHx8fHx8BBwcHDQwNGBAQGBoVERUaHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fH//AABEIABIAUAMBEQACEQEDEQH/xACTAAACAgIDAAAAAAAAAAAAAAAGBwIFAAQBAwgBAAEFAQAAAAAAAAAAAAAAAAQAAQIDBQYQAAAFAQUDCQcFAQAAAAAAAAECAwQFBgARMRIHQTITIVFhgSIzFBU1ccFCUoJDNKHxYjYXCBEAAgIABAMIAgMBAAAAAAAAAQIAAxExQQQhEjJxgZGhIkITM2EFUWKCI//aAAwDAQACEQMRAD8AZ9Nz2qtYx55yLloyKj1V1Um7JVAVVCFSNl7ZucbH2JVWeUgkwGt7bBzAgCF9KsNRUJAylQzDGQjxTECpNW4pnBS8Lhzc119h7WrI9IIMvrWwH1EETrianlHOpk5Tyok8uYMm67coFuOB1N6822++ztWBWG1JiWwmwroBBmuakVk5WXYqyC0VSdNJEPOuWg5XLldYLyNUjYl6brZ9jYkjICdHstuERWChrbOkHIAamLqKqzTZw/KijGSNMHEbkKgbu1VlEz/CdcnKAhfvY2oDpjkR+Zr27XchcSy2f1KgeEcWk9cK1RCuCO1AWfxiwt1nJSiQq5OXhrgQbhLnKGFiabOYTn/2ezFLjDgrDHD+PxNHTDUpzUc1UEJJimD+NdKi0yFy52wKCQAu2iQQ5R6baO524QBhkZg7fcc5KnMTJPUpz/rkXRscZMzQCHGVMJQMbiCmKhCFNf2coAAj7bJduPiLnuibcf8AUIO+GlSTrOAgn0w8G5BkkZUwfMIbpQ6TGuCw9aFmAGsIscKpJghpJX8tUrd8xn0QazrIxVhRy5MzVwAHROBegBuv9liN1QEwK9JlG2uL4huqAskv/wA8OpBw5UTeoqqqGMsRuR6knnv7QgQoAULx5rEqNwBhw8oMxoJ185Z6X+WBqEuFFi+GkvAD5h4ri8HxefsZON2s2X32hucfj9eHPj5Se3w+T0Y8uEJYBNQNbKnOJDAQY1mAHEBuHDbal/pXtMuT7m7BBes4Zu3m6mp6XcBHsKwMi8h5ZXuCPUAC9FU2BbxDbstkuvEg+6dbtLSUrsQczVYhl15TqJV0xDao0sy8I9lo2CphAx1lZBTwzq8Dco8EB7ZxNsAbRRXXXAS/c3bW9sVVnsOnEeMP9IwqN8zfVDOq8VWRMRJgfglbiZogJuGoKZQC7PnEeW19OJ4mZX7T41Irr9ufHHiYsGjCUg2T+vopqY0jCTz5J6iIGLx2SxgAQNyXiBTD+tt0sGIrORUeM5QKVBcZhj4S0pmmH8ZW1DyMgmY0zNjISMqsJREQMsnemmI7MhRw57QssDI4GQwAk66yHUnM4kwp1QaSVYVNGUGxUO1ZlJ5lMPQIJilIQRBEgANxTCJ9l/NzWo2xFamw55CXbgGxgg7TKmbpmpKFqGMrdeYXnUiqEj5cDIFTOVop2SiAJ35gKbo5rWJYtqlMOXUdsg9bVsHx5tDG2beH8bEcceuwEOmy37v4Mft7tmMcSQd4bDAMMduNmjwV1R/pzz03APV/x+r+fy2rt6dO+H/rfuHV/nOedaO/srL0nvS+p/iY/Z91gUz0nW7v6z15e3PvnrRLuibu6G5u4fD0W0pwhzkTd2puYjju/VZ5GSHfJu7cceqzR5z9zZh1/tZRTD7o4fVhZRT/2Q=="></img>
+    </a>
+</div>
+
+<div class="reveal">
+    <div class="slides">{{{slides}}}</div>
+</div>
+
+<script src="{{{base}}}/lib/js/head.min.js"></script>
+<script src="{{{base}}}/js/reveal.js"></script>
+
+<script>
+    function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+            var source = arguments[i];
+            for (var key in source) {
+                if (source.hasOwnProperty(key)) {
+                    target[key] = source[key];
+                }
+            }
+        }
+        return target;
+    }
+
+    // Optional libraries used to extend on reveal.js
+    var deps = [
+        { src: '{{{base}}}/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+        { src: '{{{base}}}/plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: '{{{base}}}/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: '{{{base}}}/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        { src: '{{{base}}}/plugin/zoom-js/zoom.js', async: true },
+        { src: '{{{base}}}/plugin/notes/notes.js', async: true },
+        { src: '{{{base}}}/plugin/math/math.js', async: true }
+    ];
+
+    // default options to init reveal.js
+    var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        dependencies: deps
+    };
+
+    // options from URL query string
+    var queryOptions = Reveal.getQueryHash() || {};
+
+    var options = {{{revealOptionsStr}}};
+    options = extend(defaultOptions, options, queryOptions);
+</script>
+
+{{#scriptPaths}}
+<script src="{{{base}}}/{{{.}}}"></script>
+{{/scriptPaths}}
+
+<script>
+    Reveal.initialize(options);
+</script>
+</body>
+</html>
