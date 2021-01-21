@@ -123,8 +123,14 @@
 ## ES6
 ### var vs let
 
-<iframe src="http://jsbin.com/vahifej/edit?js,console" class="liveCode"></iframe>
-<center class="print">http://jsbin.com/vahifej</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-var-vs-let?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-var-vs-let"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-var-vs-let</center>
 
 ----
 <!-- .slide: data-background-color="#FDE74C" -->
@@ -132,8 +138,14 @@
 ## ES6
 ### const
 
-<iframe src="http://jsbin.com/hawazan/edit?js,console" class="liveCode"></iframe>
-<center class="print">http://jsbin.com/hawazan</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-const?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-const"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-const</center>
 
 ----
 <!-- .slide: data-background-color="#FDE74C" -->
@@ -141,8 +153,14 @@
 ## ES6
 ### Arrow functions
 
-<iframe src="http://jsbin.com/duwugev/edit?js,console" class="liveCode"></iframe>
-<center class="print">http://jsbin.com/duwugev</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-arrow-functions?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-arrow-functions"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-arrow-functions</center>
 
 ----
 <!-- .slide: data-background-color="#FDE74C" -->
@@ -150,8 +168,14 @@
 ## ES6
 ### Modules
 
-<iframe src="https://stackblitz.com/edit/js-7bs6ve?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/js-7bs6ve</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-modules?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-modules"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-modules</center>
 
 ----
 <!-- .slide: data-background-color="#FDE74C" -->
@@ -159,8 +183,14 @@
 ## ES6
 ### Classes
 
-<iframe src="https://stackblitz.com/edit/sigma-es6-classes?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-es6-classes</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-classes?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-classes"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-classes</center>
 
 ----
 <!-- .slide: data-background-color="#FDE74C" -->
@@ -168,8 +198,14 @@
 ## ES6
 ### Classes avec modules
 
-<iframe src="https://stackblitz.com/edit/sigma-es6-classes-modules?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-es6-classes-modules</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-classes-modules?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-classes-modules"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-classes-modules</center>
 
 ----
 <!-- .slide: data-background-color="#FDE74C" -->
@@ -177,8 +213,14 @@
 ## ES6
 ### Avant les promises
 
-<iframe src="https://stackblitz.com/edit/sigma-sans-promise?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-sans-promise</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-sans-promise?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-sans-promise"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-sans-promise</center>
 
 ----
 <!-- .slide: data-background-color="#FDE74C" -->
@@ -186,8 +228,14 @@
 ## ES6
 ### Avec les promises
 
-<iframe src="https://stackblitz.com/edit/sigma-avec-promise?embed=0&file=index.js&hideExplorer=0&ctl=1&devtoolsheight=100" class="liveCode"></iframe>
-<center class="print">https://stackblitz.com/edit/sigma-avec-promise</center>
+<iframe src="https://codesandbox.io/embed/github/odangreaux/formation-angular/tree/main/exemples/es6-avec-promise?expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="odangreaux/formation-angular: es6-avec-promise"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+     class="liveCode"
+   ></iframe>
+<center class="print">https://codesandbox.io/s/github/odangreaux/formation-angular/tree/main/exemples/es6-avec-promise</center>
 
 ----
 <!-- .slide: data-background-color="#007ACC" -->
