@@ -1,0 +1,1 @@
+reveal-md formation-angular.md --static docs --static-dirs=css,img
